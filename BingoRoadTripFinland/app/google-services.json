@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "347220458103",
+    "project_id": "bingo-road-trip-finland",
+    "storage_bucket": "bingo-road-trip-finland.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:347220458103:android:c088088378d2df0a3fa472",
+        "android_client_info": {
+          "package_name": "com.android.example.bingoroadtripfinland"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "347220458103-3nc6mj5nqdleo098dovkkhr27544drqv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": ""
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "347220458103-3nc6mj5nqdleo098dovkkhr27544drqv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

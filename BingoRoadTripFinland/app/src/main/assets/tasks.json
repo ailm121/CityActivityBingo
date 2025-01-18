@@ -1,0 +1,438 @@
+[
+  {
+    "name": "Edelfeltin maisemat",
+    "description": "Valitse jokin Albert Edelfeltin Porvoosta tekemä maalaus ja mene maalaus paikalle. Luo oma versiosi teoksesta.",
+    "gpsLocation": [
+      60.3931,
+      25.6639
+    ],
+    "address": "",
+    "areas": [
+      "SUOMI",
+      "UUSIMAA",
+      "PORVOO"
+    ]
+  }, {
+  "name": "Uimassa rannoilla",
+  "description": "Käy uimassa kolmella eri uimarannalla.",
+  "gpsLocation": [
+    60.3931,
+    25.6639
+  ],
+  "address": "",
+  "areas": [
+    "ALL"
+  ]
+  }, {
+  "name": "Linnamäen maisemat",
+  "description": "Käy Linnamäen korkeimassa kohdassa.",
+  "gpsLocation": [
+    60.39972,
+    25.65181
+  ],
+  "address": "",
+  "areas": [
+    "SUOMI",
+    "UUSIMAA",
+    "PORVOO"
+  ]
+  }, {
+  "name": "Vitsi rautatieasemalla",
+  "description": "Mene Porvoon vanhalle rautatieasaemalle ja kerro juna-aiheinen vitsi.",
+  "gpsLocation": [
+    60.39666,
+    25.64806
+  ],
+  "address": "Vanha Hämeenlinnantie 11, Porvoo",
+  "areas": [
+    "SUOMI",
+    "UUSIMAA",
+    "PORVOO"
+  ]
+}, {
+  "name": "Runebergin runon lausuntaa",
+  "description": "Lausu jokin J.L. Runebergin runo hänen kotinsa edessä.",
+  "gpsLocation": [
+    60.39040,
+    25.66356
+  ],
+  "address": "Aleksanterinkatu 3, Porvoo",
+  "areas": [
+    "SUOMI",
+    "UUSIMAA",
+    "PORVOO"
+  ]
+},  {
+  "name": "Joen yli neljästi",
+  "description": "Ylitä kaikki 4 Porvoon keskustan alueella olevaa siltaa.",
+  "gpsLocation": [
+    60.3931,
+    25.6639
+  ],
+  "address": "",
+  "areas": [
+    "SUOMI",
+    "UUSIMAA",
+    "PORVOO"
+  ]
+},  {
+  "name": "Lukemista kirjastossa",
+  "description": "Lue kokonainen kirja kirjastossa.",
+  "gpsLocation": [
+    60.3931,
+    25.6639
+  ],
+  "address": "",
+  "areas": [
+    "ALL"
+  ]
+},  {
+  "name": "Ekuddenin luontopolku",
+  "description": "Kierrä Ekuddenin 1,5 km mittainen luontopolku.",
+  "gpsLocation": [
+    60.37002,
+    25.71040
+  ],
+  "address": "Tarkkistentie 155, Porvoo",
+  "areas": [
+    "SUOMI",
+    "UUSIMAA",
+    "PORVOO"
+  ]
+},  {
+  "name": "Gammelbackan puulajit",
+  "description": "Löydä 3 eri puulajitaulua Gammelbackan puulajipolulta.",
+  "gpsLocation": [
+    60.37084,
+    25.63512
+  ],
+  "address": "Viertotie 1, Porvoo",
+  "areas": [
+    "SUOMI",
+    "UUSIMAA",
+    "PORVOO"
+  ]
+},  {
+  "name": "Näsin kiven maisemat",
+  "description": "Kiipeä Näsin kivelle ihailemaan maisemia ja selvitä kiven alkuperään liittyvä tarina. Tehkää tarinasta näytelmä.",
+  "gpsLocation": [
+    60.39397,
+    25.65527
+  ],
+  "address": "Näsinmäentie 5, Porvoo",
+  "areas": [
+    "SUOMI",
+    "UUSIMAA",
+    "PORVOO"
+  ]
+},  {
+  "name": "Vierailu lintotorneilla",
+  "description": "Vieraile kahdella lintutornilla Porvoossa ja näe vähintään 2 eri lintua kummallakin tornilla.",
+  "gpsLocation": [
+    60.3931,
+    25.6639
+  ],
+  "address": "",
+  "areas": [
+    "SUOMI",
+    "UUSIMAA",
+    "PORVOO"
+  ]
+},  {
+  "name": "Löydä suihkulähde",
+  "description": "Vieraile toimivan suihkulähteen luona. Älä käytä apuvälineitä suihkulähteen löytämiseen.",
+  "gpsLocation": [
+    60.3931,
+    25.6639
+  ],
+  "address": "",
+  "areas": [
+    "SUOMI"
+  ]
+},  {
+  "name": "Valtiopäivien valtaistuin",
+  "description": "Käy vähintään 50 m päässä pisteestä, jossa Aleksanteri I valtaistuin oli Porvoon valtiopäivillä vuonna 1809.",
+  "gpsLocation": [
+    60.39721,
+    25.65814
+  ],
+  "address": "",
+  "areas": [
+    "SUOMI",
+    "UUSIMAA",
+    "PORVOO"
+  ]
+},  {
+  "name": "Köydellä veteen",
+  "description": "Keinahda puusta roikkuvalla köydellä veteen Kråkön uimarannalla.",
+  "gpsLocation": [
+    60.34300,
+    25.68595
+  ],
+  "address": "Kråköntie 221, Porvoo",
+  "areas": [
+    "SUOMI",
+    "UUSIMAA",
+    "PORVOO"
+  ]
+},  {
+  "name": "Kiipeä Kokonniemen portaat",
+  "description": "Kiipeä Kokonniemen kuntoportaat.",
+  "gpsLocation": [
+    60.38387,
+    25.660035
+  ],
+  "address": "",
+  "areas": [
+    "SUOMI",
+    "UUSIMAA",
+    "PORVOO"
+  ]
+},  {
+  "name": "Taidetta Taidetehtaalla",
+  "description": "Etsi 3 taideteosta Taidetehtaan alueelta tai sen lähettyviltä. Älä käytä apuvälineitä niiden löytämiseen.",
+  "gpsLocation": [
+    60.38885,
+    25.65632
+  ],
+  "address": "Läntinen Aleksanterinkatu 1, Porvoo",
+  "areas": [
+    "SUOMI",
+    "UUSIMAA",
+    "PORVOO"
+  ]
+}, {
+  "name": "Jähmettyneitä ihmisiä",
+  "description": "Käy kolmen ihmistä esittävän patsaan luona. Yksi joukkueen jäsen esittää pantomiiminä mistä henkilö on tunnettu ja muut arvaavat.",
+  "gpsLocation": [
+    60.3931,
+    25.6639
+  ],
+  "address": "",
+  "areas": [
+    "ALL"
+  ]
+},  {
+  "name": "Puistoja",
+  "description": "Vieraile kolmessa eri puistossa ja vietä kussakin aikaa vähintään 1 minuutti.",
+  "gpsLocation": [
+    60.3931,
+    25.6639
+  ],
+  "address": "",
+  "areas": [
+    "ALL"
+  ]
+},  {
+  "name": "Sikosaareen",
+  "description": "Vieraile Sikosaaressa.",
+  "gpsLocation": [
+    60.37397,
+    25.67924
+  ],
+  "address": "",
+  "areas": [
+    "SUOMI",
+    "UUSIMAA",
+    "PORVOO"
+  ]
+},  {
+  "name": "Kuntoilua Kokonniemessä",
+  "description": "Tee vapaavalintainen urheilusuoritus Kokonniemen kuntoilualueilla.",
+  "gpsLocation": [
+    60.3827,
+    25.6591
+  ],
+  "address": "",
+  "areas": [
+    "SUOMI",
+    "UUSIMAA",
+    "PORVOO"
+  ]
+}, {
+  "name": "Porvoolaisia herkkuja",
+  "description": "Herkuttele Porvoossa tehdyillä herkuilla. Valitse vähintään 3 eri tuottajaa. ",
+  "gpsLocation": [
+    60.3931,
+    25.6639
+  ],
+  "address": "",
+  "areas": [
+    "SUOMI",
+    "UUSIMAA",
+    "PORVOO"
+  ]
+},  {
+  "name": "Kaupunki kylttejä",
+  "description": "Etsi 10 eri kylttiä, joissa lukee saman kaupungin tai kunnan nimi. Kyltit eivät saa olla sinipohjaisia tieopasteita.",
+  "gpsLocation": [
+    60.3931,
+    25.6639
+  ],
+  "address": "",
+  "areas": [
+    "ALL"
+  ]
+},  {
+  "name": "Askolan hiidenkirnut",
+  "description": "Tee itse voita ja syö sillä voideltu leipä vieraillessassi Askolan hiidenkirnulla.",
+  "gpsLocation": [
+    60.57911,
+    25.59501
+  ],
+  "address": "Hiidenkirnujentie 721, Askola",
+  "areas": [
+    "SUOMI",
+    "UUSIMAA",
+    "ASKOLA"
+  ]
+},  {
+  "name": "Retki Emäsaloon",
+  "description": "Käy eväsretkellä Eämäsalon kallioisilla rannoilla",
+  "gpsLocation": [
+    60.2647,
+    25.6361
+  ],
+  "address": "",
+  "areas": [
+    "SUOMI",
+    "UUSIMAA",
+    "PORVOO"
+  ]
+},  {
+  "name": "Maretarium",
+  "description": "Vieraile Kotkan Maretariumissa ja opi siellä jotakin uutta.",
+  "gpsLocation": [
+    60.46127,
+    26.95050
+  ],
+  "address": "Sapokankatu 2, Kotka",
+  "areas": [
+    "SUOMI",
+    "KYMENLAAKSO",
+    "KOTKA"
+  ]
+},  {
+  "name": "Veistospromenadi",
+  "description": "Kulje koko Kotkan Veistospromenadi päästä päähän.",
+  "gpsLocation": [
+    60.46436,
+    26.94002
+  ],
+  "address": "Keskuskatu 25a, Kotka",
+  "areas": [
+    "SUOMI",
+    "KYMENLAAKSO",
+    "KOTKA"
+  ]
+},  {
+  "name": "Labyrintin keskelle",
+  "description": "Kulje reitti Katariinan meripuistossa olevan labyrintin keskelle silmät kiinni. Jos avaat silmäsi missään vaiheessa, aloita alusta.",
+  "gpsLocation": [
+    60.44817,
+    26.93533
+  ],
+  "address": "Öljysatamantie 4, Kotka",
+  "areas": [
+    "SUOMI",
+    "KYMENLAAKSO",
+    "KOTKA"
+  ]
+},  {
+  "name": "Taidetta meripuistossa",
+  "description": "Etsi 3 taideteosta Katariinan meripuistosta.",
+  "gpsLocation": [
+    60.44817,
+    26.93533
+  ],
+  "address": "Öljysatamantie 4, Kotka",
+  "areas": [
+    "SUOMI",
+    "KYMENLAAKSO",
+    "KOTKA"
+  ]
+}, {
+  "name": "Näkymiä Saanalla",
+  "description": "Kiipeä Saanan huipulle.",
+  "gpsLocation": [
+    69.04392,
+    20.85661
+  ],
+  "address": "",
+  "areas": [
+    "SUOMI",
+    "LAPPI",
+    "ENONTEKIÖ"
+  ]
+},  {
+  "name": "Kirjoita joulupukille",
+  "description": "Kirjoita kirje joulupukille ja vie se Joulupukin Pajakylään.",
+  "gpsLocation": [
+    66.54369,
+    25.84726
+  ],
+  "address": "Tähtikuja 2, Rovaniemi",
+  "areas": [
+    "SUOMI",
+    "LAPPI",
+    "ROVANIEMI"
+  ]
+},  {
+  "name": "Kauhun galleria",
+  "description": "Vieraile Kauhun galleriassa ja kerro kauhutarina siellä ollessasi.",
+  "gpsLocation": [
+    66.60867,
+    25.23474
+  ],
+  "address": "Leppiniementie 341, Rovaniemi",
+  "areas": [
+    "SUOMI",
+    "LAPPI",
+    "ROVANIEMI"
+  ]
+},  {
+  "name": "Angry Birds leikkejä",
+  "description": "Pelaa Angry Birdsiä Angry Birds -leikkipuistossa Rovaniemellä.",
+  "gpsLocation": [
+    66.49841,
+    25.73256
+  ],
+  "address": "Valtakatu 4, Rovaniemi",
+  "areas": [
+    "SUOMI",
+    "LAPPI",
+    "ROVANIEMI"
+  ]
+},  {
+  "name": "Pyhä ja Näsi",
+  "description": "Käy jossain, mistä näkee sekä Pyhä- että Näsijärven liikkumatta askeltakaan.",
+  "gpsLocation": [
+    61.49911,
+    23.78712
+  ],
+  "address": "",
+  "areas": [
+    "SUOMI",
+    "PIRKANMAA",
+    "TAMPERE"
+  ]
+},  {
+  "name": "Hatanpään Arboretum",
+  "description": "Vieraile Hatanpään Arboretumissa ja etsi 5 kasvia, jotka tunnistat nimeltä. Älä käytä apuvälineitä nimeämisessä.",
+  "gpsLocation": [
+    61.481016661323544,
+    23.752817992786753
+  ],
+  "address": "Hatanpään puistokuja, Tampere",
+  "areas": [
+    "SUOMI",
+    "PIRKANMAA",
+    "TAMPERE"
+  ]
+}
+
+]
+
+
+
+
